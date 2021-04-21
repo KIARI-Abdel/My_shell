@@ -1,3 +1,5 @@
+bonjour tout le monde
+
 /*
 ** EPITECH PROJECT, 2017
 ** minishell2
